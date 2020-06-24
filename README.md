@@ -1,0 +1,1 @@
+# wisekingdom-eslint-config
